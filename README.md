@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Vue.js
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... (http://www.sabercoder.com)
+- 📫 How to reach me: ... ask.sabercoder@gmail.com
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... I am an Egyptian !
