@@ -64,5 +64,5 @@ Scripts & automation for:
 
 ## 🌐 Connect With Me
 - GitHub: https://github.com/sabercodes
-- LinkedIn: YOUR_LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/sabermoustafa/
 
